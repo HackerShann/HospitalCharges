@@ -1,0 +1,10 @@
+C:\Users\shann\source\repos\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe.config
+C:\Users\shann\source\repos\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe
+C:\Users\shann\source\repos\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.pdb
+C:\Users\shann\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.csproj.AssemblyReference.cache
+C:\Users\shann\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Form1.resources
+C:\Users\shann\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Properties.Resources.resources
+C:\Users\shann\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.csproj.GenerateResource.cache
+C:\Users\shann\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.csproj.CoreCompileInputs.cache
+C:\Users\shann\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.exe
+C:\Users\shann\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.pdb
